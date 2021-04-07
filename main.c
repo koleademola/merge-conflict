@@ -4,6 +4,7 @@ Initial Function()
 {
   //Sample Code
 }
+initial security()
 
 feature1()
 {
